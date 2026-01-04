@@ -2,7 +2,8 @@
 
 ---
 
-🧪 ##Description
+## 🧪 Description
+
 <p style="font-size:14px;">
 This project automates the Chrome Dino game using Python.  
 It detects obstacles (cactus and birds) in real-time and reacts accordingly by jumping or ducking.  
